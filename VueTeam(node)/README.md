@@ -13,6 +13,5 @@ npm run dev
 
 # build for production with minification
 npm run build
-```
-
+```需要开启mongodb数据库,最后执行node app.js
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
