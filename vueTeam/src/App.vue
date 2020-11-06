@@ -79,7 +79,7 @@ export default {
   	return {
   		navs:[
             {
-            	title: '项目',
+            	title: '项目gb1',
             	active: true,
             	showSub:true,
             	sanjiao: true,
